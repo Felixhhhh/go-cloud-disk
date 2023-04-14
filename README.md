@@ -1,6 +1,8 @@
 ## 基于 go-zero 实现网盘系统
 
->学习视频：<a href="https://www.bilibili.com/video/BV1cr4y1s7H4">【项目实战】基于 go-zero 实现网盘系统</a>
+>学习视频：<a href="https://www.bilibili.com/video/BV1cr4y1s7H4">【项目实战】基于 go-zero 实现网盘系统</a> \
+>学习项目：<a href="https://github.com/GetcharZp/cloud-disk">  Github:  CloudDisk</a>
+
 
 文档：
 
